@@ -1,6 +1,6 @@
 #  Deep Learning Labs
 
-This repository contains a series of deep learning labs completed during my university coursework. Each lab focuses on a key concept in deep learning and includes practical implementations using Python and popular frameworks.
+This repository contains a series of deep learning labs completed during my university coursework. Each lab focuses on a key concept in deep learning and includes practical implementations using Python and popular frameworks..
 
 ##  Lab Overview
 
